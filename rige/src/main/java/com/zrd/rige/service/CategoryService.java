@@ -1,0 +1,9 @@
+package com.zrd.rige.service;
+
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.zrd.rige.entity.Category;
+
+public interface CategoryService extends IService<Category> {
+
+    public void remove(Long id);
+}
