@@ -20,4 +20,6 @@ mybatis-plus:
       id-type: ASSIGN_ID
 rige:
   # 图片资源绝对路径
-  path: C:\Users\Administrator\Desktop\文件夹\项目实战\瑞吉外卖\图片资源\
+  # path: C:\Users\Administrator\Desktop\文件夹\项目实战\瑞吉外卖\图片资源\
+  # 远程仓库图片资源地址
+  path: https://github.com/zhangnai409/ruiji/tree/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/
